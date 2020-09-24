@@ -5,7 +5,27 @@ public class Person {
 	private int age;
 	private double height;
 	private String[] hobby;
+	private String address;
+
 	public Person() {
 		// TODO Auto-generated constructor stub
+	}
+	public String getName() {
+		return name;
+	}
+	public void setName(String name) {
+		this.name = name;
+	}
+	public int getAge() {
+		return age;
+	}
+	public void setAge(int age) {
+		this.age = age;
+	}
+	public double getHeight() {
+		return height;
+	}
+	public void setHeight(double height) {
+		this.height = height;
 	}
 }
