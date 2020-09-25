@@ -7,6 +7,7 @@ public class Main {
 		System.out.println("김다희바보");
 		System.out.println("바보바보바보");
 		System.out.println("김다예짱");
+		System.out.println("내가더짱");
 
 	}
 
